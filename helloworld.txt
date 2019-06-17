@@ -2,4 +2,8 @@ helloworld
 
 updated the file 
 
+<<<<<<< HEAD
 creatting the confilt renmving the conflit
+=======
+hello there trying to creat confilct
+>>>>>>> prod
